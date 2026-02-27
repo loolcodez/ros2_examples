@@ -24,13 +24,13 @@ ros2_examples/
     ├── install/    # Ignored by Git
     └── log/        # Ignored by Git
 
-# Required ~/.bashrc Configuration
+## Required ~/.bashrc Configuration
 Add this end of ~/.bashrc:
 
-# ROS 2 Jazzy
+## ROS 2 Jazzy
 source /opt/ros/jazzy/setup.bash
 
-# ROS 2 workspace overlay
+## ROS 2 workspace overlay
 if [ -f ~/Documents/ros2_examples/ros2_ws/install/setup.bash ]; then
     source ~/Documents/ros2_examples/ros2_ws/install/setup.bash
 fi
