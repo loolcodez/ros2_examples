@@ -1,4 +1,4 @@
-# ROS2 Examples
+# ROS 2 Examples
 
 My personal ROS 2 practice repository.
 
