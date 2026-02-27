@@ -11,7 +11,7 @@ ros2_examples/
     └── src/        # ROS 2 packages
 ```
 
-## Create First ROS 2 Package
+## Create First ROS 2 Package (Python package)
 
 ```bash
 cd ros2_ws/src
